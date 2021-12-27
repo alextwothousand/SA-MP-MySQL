@@ -1,5 +1,5 @@
 {
-    "user": "pBlueG",
+    "user": "alextwothousand",
     "repo": "SA-MP-MySQL",
     "resources": [
         {
@@ -25,7 +25,7 @@
         }
     ],
     "runtime": {
-        "plugins": ["pBlueG/SA-MP-MySQL"]
+        "plugins": ["alextwothousand/SA-MP-MySQL"]
     },
     "contributors": [
         "AndreT",
